@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kids Drawing App</string>
+    <string name="button_large_cd">Button Large</string>
+    <string name="button_medium_cd">Button Medium</string>
+    <string name="button_small_cd">Button Small</string>
+    <string name="button_gallery_cd">Button Gallery</string>
+    <string name="button_undo_cd">Button Undo</string>
+    <string name="button_redo_cd">Button Redo</string>
+    <string name="button_brush_cd">Button Brush</string>
+    <string name="button_save_cd">Button Save</string>
+    <string name="color_random">Color Random</string>
+    <string name="color_lollipop">Color Lollipop</string>
+    <string name="color_yellow">Color Yellow</string>
+    <string name="color_blue">Color Blue</string>
+    <string name="color_green">Color Green</string>
+    <string name="color_red">Color Red</string>
+    <string name="color_black">Color Black</string>
+    <string name="color_skin">Color Skin</string>
+    <string name="color_white">Color White</string>
+    <string name="image_background_cd">Image Background</string>
+    <string name="loading_text">Please Wait…</string>
+</resources>
